@@ -1,0 +1,14 @@
+{
+  "db": "mongodb+srv://dusFbw8:ybtJHwE2xXhKsfn1@cluster0-vzaod.mongodb.net/react-passport-@@@@@@@@@@@?retryWrites=true&w=majority",
+  "jwtSecret": "urhfhjfjajcj232bjbjhh23h2br4jhjh90knejj",
+  "auth": {
+    "github": {
+      "clientID": "8a34179f749856469d1c",
+      "clientSecret": "f2ba97a26dcd75e94de7a07116ab37e2c001a22e"
+    },
+    "google": {
+      "clientID": "878177499475-m6gcof5dbcu1l93paur095j7vssi955h.apps.googleusercontent.com",
+      "clientSecret": "7wZZTht5d8U_Rxxb7s_4sigr"
+    }
+  }
+}
